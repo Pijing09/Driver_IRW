@@ -1,5 +1,5 @@
 # code
-The folder contains the required R code for the method.
+The folder contains the required R code for the method. 
 "net_mat2vec.R" transforms the matrix format of network data to the vector format which can be the input for "igraph" package.
 "normalization.R" normalizes data to 0-1.
 "Katz_cent.R" calculates the Katz centrality of network.
